@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **dptmf35/dptmf35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+** My stacks **
+<img src="https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 
+** My page **
 <a href=https://velog.io/@choonsik_mom target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
