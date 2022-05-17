@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 -->
 
 ** My stacks **
+<p>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Pytorch-#EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a>&nbsp
-
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a>&nbsp
+</p>
 
 ** My page **
+<p>
 <a href=https://velog.io/@choonsik_mom target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+</p>
