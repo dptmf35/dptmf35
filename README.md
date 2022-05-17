@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 ### ♥ My page ♥
 <p>
 <a href=https://velog.io/@choonsik_mom target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a href="https://yeseuljeong77@gmail.com"><img src="http://img.shields.io/badge/Gmail-EA4335style=flat&logo=Gmail&logoColor=white&link=https://yeseuljeong77@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+<a href="https://yeseuljeong77@gmail.com"><img src="http://img.shields.io/badge/Gmail-EA4335style=flat&logo=Gmail&logoColor=white&link=https://yeseuljeong77@gmail.com" /></a>
 </p>
