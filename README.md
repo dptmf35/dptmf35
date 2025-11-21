@@ -33,8 +33,6 @@ AI Foundation Model을 활용하여 다양한 도메인 솔루션을 만들고 �
 **Research Interest**  
 AI, Robotics, Data Engineering, Model Finetuning and Application
 
-</div>
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dptmf35&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/dptmf35"
@@ -42,6 +40,10 @@ AI, Robotics, Data Engineering, Model Finetuning and Application
   height="300"
 />
 </a>
+
+</div>
+
+
 
 ---
 
