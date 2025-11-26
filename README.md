@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 이미지, 텍스트, 센서 등 다양한 정형/비정형 데이터를 가공하고 활용하는 것이 좋아요.   
 AI Foundation Model을 활용하여 다양한 도메인 솔루션을 만들고 싶어요.
 
- <a href="https://www.notion.so/choonsikmom/To-be-shared-AI-Robotics-Engineer-2b75b069330280a8a7d1cd5456fb4e8f" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>[portfolio link]</a>   
+ <a href="https://choonsikmom.notion.site/To-be-shared-AI-Robotics-Engineer-2b75b069330280a8a7d1cd5456fb4e8f?pvs=143" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>[portfolio link]</a>   
 
 <a href=https://velog.io/@choonsik_mom target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>[velog link]</a>   
 총 조회수 280,000+ | 주요 논문, 연구 동향과 기술 공부를 위해 꾸준히 포스팅 중입니다.   
